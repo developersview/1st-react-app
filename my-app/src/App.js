@@ -12,7 +12,8 @@ function App() {
         <p> Created by  
           <a href = "https://github.com/developersview"> Pranoy Chakraborty</a>
         </p>
-        
+        <button type="button" class="btn btn-outline-primary">Primary</button>
+
         <a
           className="App-link"
           href="https://reactjs.org"
